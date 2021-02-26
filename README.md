@@ -6,6 +6,8 @@
 
 **Models**: Logisitic Regression, Feed Forward Neural Network, LSTM (Long Short Term Memory), BERT-SVR, can be found ![here](https://github.com/thomasbowes/MAST30034-FINAL-PROJECT/tree/master/Models)
 
+**Final Report**: https://github.com/andrewtjen/MAST30034-FINAL-PROJECT/blob/master/MAST30034_Final_Report.pdf
+
 **Dataset**: ![Hewlett Foundation](https://github.com/thomasbowes/MAST30034-FINAL-PROJECT/tree/master/dataset)
 
 * We used a cleaned dataset using the code "![cleaning code](https://github.com/thomasbowes/MAST30034-FINAL-PROJECT/blob/master/cleaning%20code.ipynb)"
